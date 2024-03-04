@@ -1,0 +1,19 @@
+# Personal
+private.py
+
+# Data
+data/
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+*.ipynb
+!00_example.ipynb
+
+# Python
+__pycache__/
+
+# vscode
+.vscode/
+
+# Mac
+.DS_Store
