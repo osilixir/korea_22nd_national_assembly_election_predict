@@ -2,12 +2,13 @@
 private.py
 
 # Data
-data/
-
+*.xlsx
+*.csv
+*.sav
+*.jpg
+!prediction.csv
 # Jupyter Notebook
 *.ipynb_checkpoints/
-*.ipynb
-!00_example.ipynb
 
 # Python
 __pycache__/
